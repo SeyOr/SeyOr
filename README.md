@@ -2,13 +2,7 @@
 <p align="center"><em>"This is the way."</em></p>
 
 <p align="center">
-I spent years navigating <b>actual ships</b> across <b>actual oceans</b> — then I traded the sea for the cloud.<br/>
-Now I keep Kubernetes fleets afloat instead. Turns out it's not that different from steering a container <em>ship</em>:<br/>
-chart the route, watch the weather, and whatever you do — don't hit the rocks. &nbsp;⚓&nbsp;→&nbsp;☸️
-</p>
-
-<p align="center">
-🌍 <b>Odesa, Ukraine</b> &nbsp;·&nbsp; 🛠️ <b>Senior DevOps Engineer</b> &nbsp;·&nbsp; ☕ runs on coffee &amp; YAML
+🌍 <b>Odesa, Ukraine</b> &nbsp;·&nbsp; 🛠️ <b>Senior DevOps/Platform Engineer</b>
 </p>
 
 ---
@@ -54,7 +48,7 @@ chart the route, watch the weather, and whatever you do — don't hit the rocks.
 
 ### 🚀 Currently
 
-- Keeping production Kubernetes boring — the highest compliment in ops
+- Keeping production Kubernetes boring - the highest compliment in ops
 - Living in **GitOps**, platform automation, and cluster **security** (CKS wasn't just for the badge)
 - Occasionally reminding a YAML file who's in charge
 
