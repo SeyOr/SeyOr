@@ -30,6 +30,7 @@ chart the route, watch the weather, and whatever you do — don't hit the rocks.
 **🏗️ Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-20A4B5?style=for-the-badge&logo=crossplane&logoColor=white)
 
 **🐧 Systems &amp; Code**
 
