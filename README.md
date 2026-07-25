@@ -13,7 +13,7 @@
 
 ### 🧰 What I work with
 
-**Foundation — Cloud, Containers &amp; Code**
+**Foundation - Cloud, Containers &amp; Code**
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,terraform,linux,nginx,python,bash&perline=9)](https://skillicons.dev)
 
@@ -50,7 +50,7 @@
 
 ### 🚀 Currently
 
-- Running **A100 / H100 / H200** GPU fleets — MIG partitioning, NCCL & DCGM for the parts that hurt when they break
+- Running **A100 / H100 / H200** GPU fleets - MIG partitioning, NCCL & DCGM for the parts that hurt when they break
 - Serving LLMs at scale with **Ray**, **vLLM** and **NVIDIA NIM** on Kubernetes
 - Living in **GitOps** and platform automation, so the humans get to sleep
 - Occasionally reminding a YAML file who's in charge
