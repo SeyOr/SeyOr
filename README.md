@@ -44,7 +44,7 @@ chart the route, watch the weather, and whatever you do — don't hit the rocks.
 
 ![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CKS](https://img.shields.io/badge/CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_%E2%80%93_Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![GCP PCA](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform Associate](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
