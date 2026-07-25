@@ -43,6 +43,7 @@ chart the route, watch the weather, and whatever you do — don't hit the rocks.
 ### 📜 Certified to break things responsibly
 
 ![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CKS](https://img.shields.io/badge/CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_%E2%80%93_Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![GCP PCA](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
