@@ -2,14 +2,11 @@
 <p align="center"><em>"This is the way."</em></p>
 
 <p align="center">
-I spent years navigating <b>actual ships</b> across <b>actual oceans</b> — then I traded the sea for the cloud.<br/>
-Now I keep <b>GPU fleets</b> and <b>LLM-serving platforms</b> afloat at an AI lab. Turns out it's not that<br/>
-different from steering a container <em>ship</em>: chart the route, watch the weather, don't hit the rocks.<br/>
 ⚓&nbsp;→&nbsp;☸️&nbsp;→&nbsp;🤖
 </p>
 
 <p align="center">
-🌍 <b>Odesa, Ukraine</b> &nbsp;·&nbsp; 🛠️ <b>Senior DevOps / Platform Engineer</b> &nbsp;·&nbsp; ☕ runs on coffee &amp; YAML
+🌍 <b>Odesa, Ukraine</b> &nbsp;·&nbsp; 🛠️ <b>Senior DevOps / Platform Engineer</b> &nbsp;
 </p>
 
 ---
